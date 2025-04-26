@@ -1,0 +1,176 @@
+HeaderInfo =  
+{
+	ScenarioDescription = "one way 3vs5 AI XXL",
+	ScenarioDescriptionlong = "One way 3 vs 5 XXL ",
+	audio_river_detection_enabled = true,
+	mapsize =  
+	{
+		1024,
+		1024,
+	},
+	point_positions =  
+	{
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1006,
+			x = -197.20430,
+			y = -334.45059,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1005,
+			x = -355.26413,
+			y = -375.85822,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1004,
+			x = -18.87525,
+			y = -210.62616,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1003,
+			x = 361.64557,
+			y = -370.96576,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1002,
+			x = 349.83081,
+			y = 362.47073,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1001,
+			x = 2.67464,
+			y = 187.90680,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1000,
+			x = -342.90854,
+			y = 348.86426,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1005,
+			x = 147.20122,
+			y = -330.46994,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1008,
+			x = 7.52322,
+			y = 339.37820,
+		},
+	},
+	scenario_type = 1,
+	scenarioabbrname = "one way 3vs5 AI XXL",
+	scenarioname = "one way 3vs5 AI XXL",
+	slots =  
+	{
+		 
+		{
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			difficulty = 6,
+			flags = 4294967291,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			difficulty = 6,
+			flags = 4294967291,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			difficulty = 6,
+			flags = 4294967291,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			difficulty = 6,
+			flags = 4294967291,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			difficulty = 6,
+			flags = 4294967291,
+			status = 0,
+			team = 1,
+		},
+		 
+		{
+			status = 0,
+			team = 0,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+	},
+	version = 3002,
+	worldbp = "default",
+}
+
