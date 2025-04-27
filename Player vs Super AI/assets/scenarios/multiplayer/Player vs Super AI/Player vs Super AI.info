@@ -20,13 +20,6 @@ HeaderInfo =
 		 
 		{
 			ebp_name = "starting_position_shared_territory",
-			owner_id = 1000,
-			x = 142.75301,
-			y = 286.30399,
-		},
-		 
-		{
-			ebp_name = "starting_position_shared_territory",
 			owner_id = 1001,
 			x = -291.52451,
 			y = -132.86606,
@@ -65,6 +58,13 @@ HeaderInfo =
 			owner_id = 1006,
 			x = 260.22025,
 			y = -305.10620,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1007,
+			x = 142.75301,
+			y = 286.30399,
 		},
 	},
 	scenario_type = 1,
