@@ -1,0 +1,28 @@
+<DataWarehouse>
+	<!--Mod/-->
+	<DataObject Name="Player vs Super AI" Type="Mod" Id="15283334749660684244" Version="1">
+		<DataProperty Name="m_description" Type="Object">
+			<DataValue Name="util::ReflectLocString">13724291016785676880</DataValue>
+			<!--Mod/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="13724291016785676880" OwnerId="15283334749660684244">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="2020397223"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="1226867956"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="2957312062"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1182455061"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="2"/>
+			</DataObject>
+		</DataProperty>
+		<DataProperty Name="m_name" Type="Object">
+			<DataValue Name="util::ReflectLocString">18281071104719002224</DataValue>
+			<!--Mod/util::ReflectLocString/-->
+			<DataObject Name="" Type="util::ReflectLocString" Id="18281071104719002224" OwnerId="15283334749660684244">
+				<DataProperty Name="m_modPart2" Type="UInt32" Value="2020397223"/>
+				<DataProperty Name="m_modPart3" Type="UInt32" Value="1226867956"/>
+				<DataProperty Name="m_modPart0" Type="UInt32" Value="2957312062"/>
+				<DataProperty Name="m_modPart1" Type="UInt32" Value="1182455061"/>
+				<DataProperty Name="m_locStringKey" Type="Int32" Value="1"/>
+			</DataObject>
+		</DataProperty>
+	</DataObject>
+</DataWarehouse>
+

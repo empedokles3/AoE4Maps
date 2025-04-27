@@ -1,0 +1,160 @@
+HeaderInfo =  
+{
+	ScenarioDescription = "Player vs Super AI",
+	ScenarioDescriptionlong = "Player vs Super AI",
+	audio_river_detection_enabled = true,
+	mapsize =  
+	{
+		704,
+		704,
+	},
+	point_positions =  
+	{
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1000,
+			x = -288.55664,
+			y = 105.09277,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1000,
+			x = 142.75301,
+			y = 286.30399,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1001,
+			x = -291.52451,
+			y = -132.86606,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1002,
+			x = -14.12959,
+			y = -291.07126,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1003,
+			x = 299.17313,
+			y = 62.06290,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1004,
+			x = 285.35669,
+			y = -130.44582,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1005,
+			x = -282.77368,
+			y = -290.06180,
+		},
+		 
+		{
+			ebp_name = "starting_position_shared_territory",
+			owner_id = 1006,
+			x = 260.22025,
+			y = -305.10620,
+		},
+	},
+	scenario_type = 1,
+	scenarioabbrname = "Player vs Super AI",
+	scenarioname = "Player vs Super AI",
+	slots =  
+	{
+		 
+		{
+			status = 0,
+			team = 10001,
+		},
+		 
+		{
+			status = 0,
+			team = 10001,
+		},
+		 
+		{
+			status = 0,
+			team = 10001,
+		},
+		 
+		{
+			status = 0,
+			team = 10001,
+		},
+		 
+		{
+			status = 0,
+			team = 10001,
+		},
+		 
+		{
+			status = 0,
+			team = 10001,
+		},
+		 
+		{
+			status = 0,
+			team = 10001,
+		},
+		 
+		{
+			status = 0,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+		 
+		{
+			status = 1,
+			team = 10001,
+		},
+	},
+	version = 3002,
+	visible_in_lobby = true,
+	worldbp = "default",
+}
+
